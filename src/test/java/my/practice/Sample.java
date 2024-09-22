@@ -13,11 +13,24 @@ public class Sample {
 	}
 	public void science() {
 		System.out.println("mark is 80");
+		
 	}
+	public void cs1() {
+		System.out.println("mark is 99");
+	}
+	public void cs2() {
+		System.out.println("mark is 99");
+		
+	}
+	
 	public void social() {
 		System.out.println("mark is 80");
 	}
 	public void evs() {
 		System.out.println("mark is 80");
+	}
+	public void cs3() {
+		System.out.println("mark is 99");
+		
 	}
 }
