@@ -14,4 +14,10 @@ public class Sample {
 	public void science() {
 		System.out.println("mark is 80");
 	}
+	public void social() {
+		System.out.println("mark is 80");
+	}
+	public void evs() {
+		System.out.println("mark is 80");
+	}
 }
