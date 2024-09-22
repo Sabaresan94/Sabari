@@ -22,6 +22,13 @@ public class Sample {
 		System.out.println("mark is 99");
 		
 	}
+	
+	public void social() {
+		System.out.println("mark is 80");
+	}
+	public void evs() {
+		System.out.println("mark is 80");
+	}
 	public void cs3() {
 		System.out.println("mark is 99");
 		
