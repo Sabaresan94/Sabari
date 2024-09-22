@@ -20,5 +20,10 @@ public class Sample {
 	}
 	public void cs2() {
 		System.out.println("mark is 99");
+		
+	}
+	public void cs3() {
+		System.out.println("mark is 99");
+		
 	}
 }
